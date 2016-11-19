@@ -15,7 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".COVER"></activity>
+        <activity android:name=".COVER" />
+        <activity android:name=".LaguActivity"></activity>
     </application>
 
 </manifest>

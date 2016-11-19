@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.project.xiirpl3102030.duniaanakislaDumi;
+package id.sch.smktelkom_mlg.project.xiirpl3102030.duniaanakislami;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
