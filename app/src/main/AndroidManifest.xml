@@ -16,7 +16,14 @@
             </intent-filter>
         </activity>
         <activity android:name=".COVER" />
-        <activity android:name=".LaguActivity"></activity>
+        <activity android:name=".LaguActivity" />
+        <activity android:name=".Doa1Activity" />
+        <activity android:name=".Doa2Activity" />
+        <activity android:name=".Doa3Activity" />
+        <activity android:name=".Doa4Activity" />
+        <activity android:name=".Doa5Activity" />
+        <activity android:name=".Doa6Activity" />
+        <activity android:name=".DoaActivity"></activity>
     </application>
 
 </manifest>
