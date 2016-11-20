@@ -136,11 +136,61 @@ public class hijaiyah extends AppCompatActivity {
         public CharSequence getPageTitle(int position) {
             switch (position) {
                 case 0:
-                    return "SECTION 1";
+                    return "ALIF";
                 case 1:
-                    return "SECTION 2";
+                    return "BA";
                 case 2:
-                    return "SECTION 3";
+                    return "TA";
+                case 3:
+                    return "TSA";
+                case 4:
+                    return "JIM";
+                case 5:
+                    return "KHA";
+                case 6:
+                    return "GHO";
+                case 7:
+                    return "DAL";
+                case 8:
+                    return "DZAL";
+                case 9:
+                    return "RA";
+                case 10:
+                    return "ZAY";
+                case 11:
+                    return "SIN";
+                case 12:
+                    return "SYIN";
+                case 13:
+                    return "SAD";
+                case 14:
+                    return "DAD";
+                case 15:
+                    return "TO";
+                case 16:
+                    return "DHO";
+                case 17:
+                    return "AIN";
+                case 18:
+                    return "GHAIN";
+                case 19:
+                    return "FA";
+                case 20:
+                    return "QAF";
+                case 21:
+                    return "KAF";
+                case 22:
+                    return "LAM";
+                case 23:
+                    return "MIM";
+                case 24:
+                    return "NUN";
+                case 25:
+                    return "HA";
+                case 26:
+                    return "WAU";
+                case 27:
+                    return "YA";
             }
             return null;
         }
