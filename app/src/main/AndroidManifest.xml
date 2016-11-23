@@ -15,7 +15,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".COVER" />
+        <activity android:name=".MenuAwal" />
         <activity android:name=".LaguActivity" />
         <activity android:name=".Doa1Activity" />
         <activity android:name=".Doa2Activity" />
