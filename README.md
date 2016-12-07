@@ -12,8 +12,18 @@ Dalam menu Huruf Hijaiyah anak-anak usia dini akan dikenalkan beberapa<br>
 Kegunaan aplikasi ini untuk mempermudah pemilik les privat dalam melakukan pendataan murid. Selain itu juga akan mempermudah pendaftar dalam melakukan pendaftaran agar tidak perlu repot mengantri untuk mendaftar.<br><br>
 
 ###Screenshoot Aplikasi###
+![1.jpg](https://docs.google.com/uc?id=0BxP7RiZ49wJjbnhWamFQdng0dGM)
+![2.jpg](https://docs.google.com/uc?id=0BxP7RiZ49wJjNkVoMEhid3E0TDg)
+![3.jpg](https://docs.google.com/uc?id=0BxP7RiZ49wJjX2txWjZnSkttcXM)
+![4.jpg](https://docs.google.com/uc?id=0BxP7RiZ49wJjR0JWeFJHLXgwZXM)
+![5.jpg](https://docs.google.com/uc?id=0BxP7RiZ49wJjbjQ3SjU0b3JpTU0)
+![6.jpg](https://docs.google.com/uc?id=0BxP7RiZ49wJjY1FNSUNGczhVUTA)
+![7.jpg](https://docs.google.com/uc?id=0BxP7RiZ49wJjSVZKcG84ZHdELUk)
+![8.jpg](https://docs.google.com/uc?id=0BxP7RiZ49wJjeTFKZ01UTG1fTVU)
+![9.jpg](https://docs.google.com/uc?id=0BxP7RiZ49wJjZDJCMlMwU0lHdTA)
 
 ###Video Aplikasi###
+https://youtu.be/JB26hdiwbVg
 
 ###Link File Apk###
 https://drive.google.com/file/d/0B8Ed_cCB5FOecEwtQjhxVWNkaVE/view?usp=sharing<br>
