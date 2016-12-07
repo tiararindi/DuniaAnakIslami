@@ -13,19 +13,14 @@ Kegunaan aplikasi ini untuk mempermudah pemilik les privat dalam melakukan penda
 
 ###Screenshoot Aplikasi###
 
-![screenshot_2016_11_20_23_45_46](https://cloud.githubusercontent.com/assets/22634893/20464620/0dd42f66-af7d-11e6-9815-8b3e81e5cb78.png)
-![screenshot_2016_11_20_23_45_55](https://cloud.githubusercontent.com/assets/22634893/20464622/12569574-af7d-11e6-9716-927d45c5fd53.png)
-![screenshot_2016_11_20_23_46_2](https://cloud.githubusercontent.com/assets/22634893/20464623/16dfaf72-af7d-11e6-9dc9-fef0fbd4b820.png)
-![screenshot_2016_11_20_23_44_51](https://cloud.githubusercontent.com/assets/22634893/20464606/ccfb7e04-af7c-11e6-9827-864c3bbbe25b.png)
-![screenshot_2016_11_20_23_45_10](https://cloud.githubusercontent.com/assets/22634893/20464617/032d56d2-af7d-11e6-9449-8f5a744af6f3.png)
-![screenshot_2016_11_20_23_45_25](https://cloud.githubusercontent.com/assets/22634893/20464618/07351238-af7d-11e6-8ee0-08eea15b6e42.png)
-![screenshot_2016_11_20_23_45_36](https://cloud.githubusercontent.com/assets/22634893/20464619/09d9d618-af7d-11e6-9566-98e210f3e097.png)
-
 ###Video Aplikasi###
 
+###Link File Apk###
+https://drive.google.com/file/d/0B8Ed_cCB5FOecEwtQjhxVWNkaVE/view?usp=sharing<br>
+
 ###Identitas Anggota (Kelompok 10)#
-* Nama    : Dewi Azizah Sugiono<br>
-* Kelas  : XII RPL 3<br>
+* Nama : Dewi Azizah Sugiono<br>
+* Kelas : XII RPL 3<br>
 * No. Urut : 10<br>
 * NIS : 4321/1219<br>
 * User : xwiksco<br><br>
